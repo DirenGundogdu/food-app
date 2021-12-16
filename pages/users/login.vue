@@ -51,12 +51,12 @@ export default {
       password: "",
     };
   },
-  methods: {
-    login() {
-      const { username } = this;
-      console.log(username + "logged in")
-    },
-  },
+//   methods: {
+//     login() {
+//       const { username } = this;
+//       console.log(username + "logged in")
+//     },
+//   },
 };
 </script>
 

@@ -61,12 +61,12 @@ export default {
       repassword: "",
     };
   },
-  methods: {
-    login() {
-      const { username } = this;
-      console.log(username + "logged in")
-    },
-  },
+//   methods: {
+//     login() {
+//       const { username } = this;
+//       console.log(username + "logged in")
+//     },
+//   },
 };
 </script>
 
